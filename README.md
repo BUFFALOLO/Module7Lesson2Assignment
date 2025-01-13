@@ -30,7 +30,7 @@ The video could be a lecture, an animation, or a documentary clip related to the
 **Completion Criteria:**
 - The HTML document must include at least one example of each multimedia element (image, audio, video) related to the educational content.
 - Each multimedia element must be appropriately captioned or described to aid understanding.
-- The page should be structured semantically, with clear headings and descriptive text accompanying each multimedia element to contextualize its relevance to the educational content. <br>
+- The page should be structured semantically, with clear headings and descriptive text accompanying each multimedia element to contextualize its relevance to the educational content. <br> <br>
 
 **CRAFTING A SEMANTIC WEB DOCUMENT** <br> <br>
 
@@ -58,6 +58,9 @@ Enhance Accessibility with Semantic Markup Incorporate additional semantic eleme
 *Expected Outcome: A fully accessible web page that uses semantic HTML5 elements to enhance content readability and navigability, ensuring a better user experience and improved SEO.* <br>
 
 **Completion Criteria:**
+```
 - The web document must employ semantic HTML5 elements to structure the content logically and accessibly.
 - The page should make appropriate use of <article>, <section>, <aside>, <figure>, and <address> elements where relevant to the content.
 - Headings should be used to structure the content hierarchically, improving both readability and accessibility.
+```
+
