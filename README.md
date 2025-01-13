@@ -3,10 +3,12 @@
 **EMBEDDING MULTIMEDIA IN EDUCATIONAL CONTENT** <br>
 **Objective:** The aim of this assignment is to enhance the delivery of educational content through the effective use of multimedia elements in a web page. By embedding images, audio, and video, students will learn to create more engaging and interactive educational resources. <br>
 **Problem Statement:** In an era where digital learning is becoming increasingly prevalent, the traditional text-based delivery of educational content can fail to fully engage students. This assignment challenges you to incorporate multimedia elements into an HTML document designed to teach a simple concept (e.g., the water cycle, basic math principles, or a historical event), thereby improving the learner's engagement and understanding. <br>
+**Task 1:**
 ```
-Task 1: Embed an Educational Image Create an HTML page and embed an image that illustrates the concept you're teaching. Add a caption using the <figcaption> element to describe the image.
-Expected Outcome: A web page displaying an image relevant to the educational content, with a caption explaining the image.
+Embed an Educational Image Create an HTML page and embed an image that illustrates the concept you're teaching.
+Add a caption using the <figcaption> element to describe the image.
 ```
+*Expected Outcome: A web page displaying an image relevant to the educational content, with a caption explaining the image.*
 
 ```
 **Task 2:** Include an Instructional Audio Clip Embed an audio clip that provides a brief explanation or reading of the concept. Ensure the audio is accessible with playback controls.
