@@ -1,7 +1,7 @@
 # Module 7 - Lesson 2 Assignment - HTML Elements for Content & Layout
 
 **EMBEDDING MULTIMEDIA IN EDUCATIONAL CONTENT** <br>
-**Objective:** The aim of this assignment is to enhance the delivery of educational content through the effective use of multimedia elements in a web page. By embedding images, audio, and video, students will learn to create more engaging and interactive educational resources. <br>
+**Objective:** The aim of this assignment is to enhance the delivery of educational content through the effective use of multimedia elements in a web page. By embedding images, audio, and video, students will learn to create more engaging and interactive educational resources. <br> <br>
 **Problem Statement:** In an era where digital learning is becoming increasingly prevalent, the traditional text-based delivery of educational content can fail to fully engage students. This assignment challenges you to incorporate multimedia elements into an HTML document designed to teach a simple concept (e.g., the water cycle, basic math principles, or a historical event), thereby improving the learner's engagement and understanding. <br>
 **Task 1:**
 ```
