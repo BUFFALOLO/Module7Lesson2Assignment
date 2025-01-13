@@ -32,16 +32,29 @@ The video could be a lecture, an animation, or a documentary clip related to the
 - Each multimedia element must be appropriately captioned or described to aid understanding.
 - The page should be structured semantically, with clear headings and descriptive text accompanying each multimedia element to contextualize its relevance to the educational content. <br>
 
-**CRAFTING A SEMANTIC WEB DOCUMENT** <br>
-**Objective:** The aim of this assignment is to deepen understanding and application of semantic HTML5 elements in creating a well-structured, accessible web document. Students will learn to use semantic tags to outline the structure of a web page, enhancing both its readability for humans and its interpretability for search engines. <br>
-**Problem Statement:** In the sprawling landscape of the web, countless pages suffer from poor structure and accessibility, making it challenging for both users and search engines to navigate and understand content. This assignment challenges you to build a semantically rich, accessible web page on a topic of your choice (e.g., a hobby, a tutorial, or a personal project), using HTML5 semantic elements to organize content logically. <br>
-**Task 1:** Define the Page Structure Use semantic elements to define the basic structure of your web page, including a header, navigation, main content, and a footer.
+**CRAFTING A SEMANTIC WEB DOCUMENT** <br> <br>
+
+**Objective:** The aim of this assignment is to deepen understanding and application of semantic HTML5 elements in creating a well-structured, accessible web document. Students will learn to use semantic tags to outline the structure of a web page, enhancing both its readability for humans and its interpretability for search engines. <br> <br>
+
+**Problem Statement:** In the sprawling landscape of the web, countless pages suffer from poor structure and accessibility, making it challenging for both users and search engines to navigate and understand content. This assignment challenges you to build a semantically rich, accessible web page on a topic of your choice (e.g., a hobby, a tutorial, or a personal project), using HTML5 semantic elements to organize content logically. <br> <br>
+
+
+**Task 1:** 
+```
+Define the Page Structure Use semantic elements to define the basic structure of your web page, including a header, navigation, main content, and a footer.
+```
 *Expected Outcome: A web page with a clear, logical structure, marked up with semantic elements that delineate the header, navigation, main content, and footer.* <br>
 
-**Task 2:** Organize Content Using Articles and Sections Within the <main> element, use <article> and <section> tags to organize the content related to your topic. Use headings (<h2> to <h6>) to title each section or article appropriately.
+**Task 2:** 
+```
+Organize Content Using Articles and Sections Within the <main> element, use <article> and <section> tags to organize the content related to your topic. Use headings (<h2> to <h6>) to title each section or article appropriately.
+```
 *Expected Outcome: A semantically structured main content area, with articles and sections that logically separate different topics or ideas related to the main subject.* <br>
 
-**Task 3:** Enhance Accessibility with Semantic Markup Incorporate additional semantic elements such as <aside> for side content, <figure> and <figcaption> for images, and <address> for contact information in the footer, to further enhance the page's accessibility.
+**Task 3:** 
+```
+Enhance Accessibility with Semantic Markup Incorporate additional semantic elements such as <aside> for side content, <figure> and <figcaption> for images, and <address> for contact information in the footer, to further enhance the page's accessibility.
+```
 *Expected Outcome: A fully accessible web page that uses semantic HTML5 elements to enhance content readability and navigability, ensuring a better user experience and improved SEO.* <br>
 
 **Completion Criteria:**
